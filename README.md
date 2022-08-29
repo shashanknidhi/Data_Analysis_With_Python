@@ -1,6 +1,6 @@
 # Data_Analysis_With_Python
 This repo is the collection of my projects which I am building as part of FreeCodeCamp's Data Analysis with Python Certification.
-#Project List :
+# Project List :
 | S.No. | Project Name | Replit Link|
 |-------|------------|------------- |
 | 1. | Mean-Variance-Standard Deviation Calculator :white_check_mark: | https://replit.com/@shashanknidhi61/mean-variance-standard-deviation-calculator |
